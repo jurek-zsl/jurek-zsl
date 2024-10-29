@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on Fake VULCAN<br>🏫 Learning C++ and JS<br>
+🔭 Currently working on StudHub<br>🏫 Learning C++ and JS<br>
 
 
 # 💻 Tech Stack:
